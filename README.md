@@ -1,7 +1,7 @@
 # Kodluyoruz Ilk Repo
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) React Native Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
-[github](https://www.hizliresim.com/ftl5abm)
+![](https://www.hizliresim.com/ftl5abm)
 
 ## Installation
 
